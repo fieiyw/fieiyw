@@ -1,7 +1,8 @@
 <div align="center">
    <img><img width="240" height="20" alt="image" src="https://github.com/user-attachments/assets/2f452b36-6b07-4958-86a2-f438b7c1e23c" />
 </img>
-   <img><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/4dafbd8c-0ca0-4a7c-b369-798af5e6738d" />
+   <img><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7a7f9920-5461-40ea-ae2a-c2150ed4fb4c" />
+
 
   </img>
 <div align="center"><font color="pink">( 🌷 ) Hello! I am <b>fia</b>, nice to meet you ꕀ</font></div>
