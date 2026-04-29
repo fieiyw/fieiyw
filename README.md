@@ -8,7 +8,7 @@
 <body align="center"> ⊱ ۫ ׅ ✧ I like meeting new people, but I'm normally offtab/afk, 
 gestures/c+h is very welcome here <3 </body><br>
 <body align="center"> remember to read strawpage b4 interacting </body><br>
- [strawpage](https://jelliacres.straw.page)
+<a href="[https://jelliacres.straw.page]">strawpage</a>
  <br>
  <img><img width="240" height="20" alt="image" src="https://github.com/user-attachments/assets/bddc0707-af24-4be2-8289-4f4707c8175d" />
 
