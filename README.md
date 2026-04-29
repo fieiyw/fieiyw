@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**fieiyw/fieiyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+  <img><img width="230" height="29" alt="image" src="https://github.com/user-attachments/assets/ef0f716a-f17e-438e-8662-c4edeba691dc" />
+</img>
+  <img><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8200e2c-ae49-4143-a425-b768c5da3202">
+ </img>
+<div align="center"><font color="pink">( 🌷 ) Hello! I am <b>fia</b>, nice to meet you ꕀ</font></div>
+  
+<body align="center"> ⊱ ۫ ׅ ✧ I like meeting new people, but I'm normally offtab/afk, 
+gestures/c+h is very welcome here <3 </body><br>
+<body align="center"> remember to read strawpage b4 interacting </body><br>
+ <br>
+ <img><img width="230" height="29" alt="image" src="https://github.com/user-attachments/assets/ef0f716a-f17e-438e-8662-c4edeba691dc" />
+</img>
+</div>
