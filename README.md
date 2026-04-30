@@ -2,11 +2,10 @@
    <img><img width="240" height="20" alt="image" src="https://github.com/user-attachments/assets/2f452b36-6b07-4958-86a2-f438b7c1e23c" />
 </img>
    <img><img width="240" height="20" alt="image" src="https://github.com/user-attachments/assets/c188a8a1-0023-4fef-81d7-3113e55ab90c" /></img>
-
+<div align="center"> ![App Demo](https://y2k.neocities.org/stamps/tumblr_inline_pe6lbw4Zzw1v11djx_1280.gif)
    <img><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d48c909-cfb6-4ab5-9ed3-cb173fb21861" />
 
-<div align="center"> ![App Demo](<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/dbf04673-56ff-455f-b7fd-73438c770ff4" />
-)
+
 
   </img>
 <div align="center"><font color="pink">( 🌷 ) Hello! I am <b>fia</b>, nice to meet you ꕀ</font></div>
