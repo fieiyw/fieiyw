@@ -5,7 +5,8 @@
 
    <img><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2d48c909-cfb6-4ab5-9ed3-cb173fb21861" />
 
-
+<div align="center"> ![App Demo](<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/dbf04673-56ff-455f-b7fd-73438c770ff4" />
+)
 
   </img>
 <div align="center"><font color="pink">( 🌷 ) Hello! I am <b>fia</b>, nice to meet you ꕀ</font></div>
