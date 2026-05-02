@@ -9,7 +9,7 @@
 
 
   </img>
-<div align="center"><font color="pink">( 🌷 ) Hello! I am <b>fia</b>, nice to meet you ꕀ</font></div>
+<div align="center"><font color="pink">( 🌷 ) Hello! I am <b>fia/bri</b>, nice to meet you ꕀ</font></div>
    
 <body align="center"> ⊱ ۫ ׅ ✧ I like meeting new people, but I'm normally offtab/afk, 
 gestures/c+h is very welcome here <3 </body><br>
