@@ -1,7 +1,9 @@
 <div align="center">
    <img><img width="240" height="20" alt="image" src="https://github.com/user-attachments/assets/2f452b36-6b07-4958-86a2-f438b7c1e23c" />
 </img>
-   
+   <br>
+   <br>
+   <br>
 
 <div align="center"><font color="pink">( 🌷 ) Hello! I am <b>fia/bri</b>, nice to meet you ꕀ</font></div>
    
