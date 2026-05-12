@@ -15,6 +15,5 @@ gestures/c+h is very welcome here <3 </body><br>
 
   <br>
   <img><img width="240" height="20" alt="image" src="https://github.com/user-attachments/assets/bddc0707-af24-4be2-8289-4f4707c8175d" />
-<img><img width="240" height="20" alt="image" src="https://github.com/user-attachments/assets/c188a8a1-0023-4fef-81d7-3113e55ab90c" /></img>
 </img>
 </div>
